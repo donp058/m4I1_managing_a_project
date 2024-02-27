@@ -1,6 +1,13 @@
-This stuff in here doesn't matter
-
-random colors:
-red 
-green 
+Crimson
+Orange
+Blue
+Cyan
 yellow
+Charcoal
+Khaki
+Charcoal
+Silver
+Fuchsia
+Purple
+Brown
+Red
